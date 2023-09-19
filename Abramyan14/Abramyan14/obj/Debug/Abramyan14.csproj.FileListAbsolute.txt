@@ -1,0 +1,8 @@
+C:\Users\Burykin.S.A\source\repos\Abramyan14\Abramyan14\bin\Debug\Abramyan14.exe.config
+C:\Users\Burykin.S.A\source\repos\Abramyan14\Abramyan14\bin\Debug\Abramyan14.exe
+C:\Users\Burykin.S.A\source\repos\Abramyan14\Abramyan14\bin\Debug\Abramyan14.pdb
+C:\Users\Burykin.S.A\source\repos\Abramyan14\Abramyan14\obj\Debug\Abramyan14.csproj.AssemblyReference.cache
+C:\Users\Burykin.S.A\source\repos\Abramyan14\Abramyan14\obj\Debug\Abramyan14.csproj.SuggestedBindingRedirects.cache
+C:\Users\Burykin.S.A\source\repos\Abramyan14\Abramyan14\obj\Debug\Abramyan14.csproj.CoreCompileInputs.cache
+C:\Users\Burykin.S.A\source\repos\Abramyan14\Abramyan14\obj\Debug\Abramyan14.exe
+C:\Users\Burykin.S.A\source\repos\Abramyan14\Abramyan14\obj\Debug\Abramyan14.pdb

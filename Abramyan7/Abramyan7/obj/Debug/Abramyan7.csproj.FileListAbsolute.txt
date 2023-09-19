@@ -1,0 +1,16 @@
+C:\Users\Burykin.S.A\source\repos\Abramyan7\Abramyan7\bin\Debug\Abramyan7.exe.config
+C:\Users\Burykin.S.A\source\repos\Abramyan7\Abramyan7\bin\Debug\Abramyan7.exe
+C:\Users\Burykin.S.A\source\repos\Abramyan7\Abramyan7\bin\Debug\Abramyan7.pdb
+C:\Users\Burykin.S.A\source\repos\Abramyan7\Abramyan7\obj\Debug\Abramyan7.csproj.AssemblyReference.cache
+C:\Users\Burykin.S.A\source\repos\Abramyan7\Abramyan7\obj\Debug\Abramyan7.csproj.SuggestedBindingRedirects.cache
+C:\Users\Burykin.S.A\source\repos\Abramyan7\Abramyan7\obj\Debug\Abramyan7.csproj.CoreCompileInputs.cache
+C:\Users\Burykin.S.A\source\repos\Abramyan7\Abramyan7\obj\Debug\Abramyan7.exe
+C:\Users\Burykin.S.A\source\repos\Abramyan7\Abramyan7\obj\Debug\Abramyan7.pdb
+C:\Users\Burykin.S.A\Desktop\ToGit\Abramyan7\Abramyan7\bin\Debug\Abramyan7.exe.config
+C:\Users\Burykin.S.A\Desktop\ToGit\Abramyan7\Abramyan7\bin\Debug\Abramyan7.exe
+C:\Users\Burykin.S.A\Desktop\ToGit\Abramyan7\Abramyan7\bin\Debug\Abramyan7.pdb
+C:\Users\Burykin.S.A\Desktop\ToGit\Abramyan7\Abramyan7\obj\Debug\Abramyan7.csproj.AssemblyReference.cache
+C:\Users\Burykin.S.A\Desktop\ToGit\Abramyan7\Abramyan7\obj\Debug\Abramyan7.csproj.SuggestedBindingRedirects.cache
+C:\Users\Burykin.S.A\Desktop\ToGit\Abramyan7\Abramyan7\obj\Debug\Abramyan7.csproj.CoreCompileInputs.cache
+C:\Users\Burykin.S.A\Desktop\ToGit\Abramyan7\Abramyan7\obj\Debug\Abramyan7.exe
+C:\Users\Burykin.S.A\Desktop\ToGit\Abramyan7\Abramyan7\obj\Debug\Abramyan7.pdb
